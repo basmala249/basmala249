@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @basmala249
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+My name is Basmala Ahmed Ali Ibrahim 
+I am 18 years old 
+I was in dar elhanan language school 
+I am in faculty of computer and artifical intelligence Cairo University 
+<!---
+basmala249/basmala249 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
